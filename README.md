@@ -10,7 +10,9 @@ Hi, this is a Single Page Simple Notes App for Mobiles. I create this App using 
 
 ## Features
 
-- Add/Remove Notes
+- Add Notes
+- Update Notes
+- Delete Notes
 - Store Locally Data 
 - Cross platform
 
