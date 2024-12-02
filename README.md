@@ -1,16 +1,30 @@
-# note_app_simple
 
-A new Flutter project.
+# Single Page Simple Notes App
 
-## Getting Started
+Hi, this is a Single Page Simple Notes App for Mobiles. I create this App using Flutter Framework. In this App I learn more about flutter, flutter widgets, UI Basics and SQL in flutter. This is basic and beginner level App for basic purpose of knowlged and code practing.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## App Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img align="center"  width="1000" height="800" src="https://github.com/arslanaslam5588/Simple_Weather_App_1/blob/master/assets/WeatherAppGif.gif">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- Add/Remove Notes
+- Store Locally Data 
+- Cross platform
+
+
+## Installation
+
+Just Download and Install by Clicking <a href = "https://github.com/arslanaslam5588/Simple_Weather_App_1/raw/refs/heads/master/assets/Weather%20App.apk" >Here</a>
+
+  
+## Skills
+Flutter, Dart, SQL in Flutter, Basic Programming 
+
+
+## Support
+
+For support, email arslang5588@gmail.com or join me on <a href = "https://www.linkedin.com/in/arslanaslam77/" >Linkedin</a>.
+
