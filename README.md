@@ -6,7 +6,7 @@ Hi, this is a Single Page Simple Notes App for Mobiles. I create this App using 
 
 ## App Demo
 
-<img align="center"  width="1000" height="800" src="https://github.com/arslanaslam5588/Simple_Weather_App_1/blob/master/assets/WeatherAppGif.gif">
+<img src="https://github.com/arslanaslam5588/notes_app_sql_lite/blob/master/assets/Demo_App.gif">
 
 ## Features
 
@@ -17,7 +17,7 @@ Hi, this is a Single Page Simple Notes App for Mobiles. I create this App using 
 
 ## Installation
 
-Just Download and Install by Clicking <a href = "https://github.com/arslanaslam5588/Simple_Weather_App_1/raw/refs/heads/master/assets/Weather%20App.apk" >Here</a>
+Just Download and Install by Clicking <a href = "https://github.com/arslanaslam5588/notes_app_sql_lite/raw/refs/heads/master/assets/Notes_App_SQL.apk" >Here</a>
 
   
 ## Skills
